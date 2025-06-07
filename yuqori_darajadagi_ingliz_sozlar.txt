@@ -1,0 +1,93 @@
+Abandon - Tark etmoq, tashlab ketmoq
+Abdicate - Taxtdan voz kechmoq
+Aberration - Normadan og‘ish, g‘ayritabiiylik
+Abhorrent - Nafratli, jirkanch
+Abstruse - Tushunish qiyin, murakkab
+Acquiesce - Yashirin rozilik bildirmoq
+Alleviate - Yengillashtirmoq, yengil qilmoq
+Ambiguous - Noaniq, ikki ma'noli
+Ambivalent - Qarama-qarshi tuyg‘ularga ega
+Anomaly - G‘ayritabiiy holat, o‘ziga xoslik
+Antithesis - Aks, ziddiyat
+Apathetic - Beparvo, loqayd
+Apprehensive - Havotirli, xavotirga tushgan
+Arduous - Juda qiyin, og‘ir
+Articulate - Aniq ifodalangan, ravshan
+Assertive - Ishonchli, qat’iy
+Assimilate - O‘zlashtirmoq, singdirmoq
+Avid - Chanqoq, ishtiyoqmand
+Belligerent - Tajovuzkor, janjalkash
+Benevolent - Mehribon, saxiy
+Brevity - Qisqalik, ixchamlik
+Candid - Ochiq, samimiy
+Capitulate - Taslim bo‘lmoq, bo‘ysunmoq
+Coherent - Mantiqli, bir butun
+Complacent - O‘zidan mamnun, beparvo
+Concur - Rozilik bildirmoq, qo‘llab-quvvatlamoq
+Conundrum - Murakkab muammo
+Conventional - An’anaviy
+Copious - Juda ko‘p, mo‘l
+Cursory - Yuzaki, shoshilinch
+Daunting - Daxshatli, qo‘rqinchli
+Debilitate - Zaiflashtirmoq
+Deference - Hurmat, itoatkorlik
+Deliberate - Ataylab, o‘ylangan
+Demeanor - O‘zini tutish, odobi
+Derive - Hosil qilmoq, kelib chiqmoq
+Detrimental - Zararli
+Digress - Mavzudan chetga chiqmoq
+Diligent - Mehnatsevar, tirishqoq
+Discrepancy - Tafovut, nomuvofiqlik
+Disseminate - Tarqatmoq, yoymoq
+Diverge - Ajralmoq, farqlanmoq
+Elicit - Yuzaga keltirmoq, aniqlamoq
+Emulate - O‘xshamoq, taqlid qilmoq
+Endeavor - Harakat qilmoq, intilmoq
+Engender - Tug‘dirmoq, sabab bo‘lmoq
+Enhance - Yaxshilamoq, kuchaytirmoq
+Entail - O‘z ichiga olmoq, talab qilmoq
+Enumerate - Sanab o‘tmoq, ro‘yxat qilmoq
+Ephemeral - Uzoq davom etmaydigan, o‘tkinchi
+Esoteric - Maxfiy, faqat ayrimlar tushunadigan
+Exemplify - Misol keltirmoq
+Exacerbate - Yomonlashtirmoq, kuchaytirmoq
+Feasible - Amalga oshadigan, mumkin
+Fluctuate - Tez-tez o‘zgarib turmoq
+Futile - Behuda, foydasiz
+Gregarious - Ijtimoiy, odamovi
+Gullible - Ishonuvchan
+Hinder - To‘sqinlik qilmoq
+Impede - To‘smoq, sekinlashtirmoq
+Impetuous - Shoshqaloq, o‘ylamay harakat qiluvchi
+Inadvertent - E’tiborsiz, bilmagan holda
+Incentive - Rag‘bat, turtki
+Incessant - Doimiy, to‘xtovsiz
+Indispensable - Juda zarur, ajralmas
+Inevitable - Muqarrar, albatta sodir bo‘ladigan
+Innate - Tug‘ma, ichki
+Insinuate - Imo bilan aytmoq, bilvosita bildirmoq
+Lucid - Tushunarli, ravshan
+Magnanimous - Keng ko‘ngilli, kechiruvchan
+Meticulous - Juda puxta, sinchkov
+Mundane - Oddiy, zerikarli
+Novice - Yangi boshlovchi, yangi o‘rganuvchi
+Obsolete - Eskirgan, foydalanilmaydigan
+Omnipotent - Har narsaga qodir
+Ostentatious - Ko‘z-ko‘z qiluvchi, dabdabali
+Perplex - Chalkashtirmoq, hayratga solmoq
+Pragmatic - Amaliy, haqiqatga asoslangan
+Precarious - Noaniq, beqaror
+Predicament - Qiyin ahvol
+Prolific - Juda sermahsul
+Redundant - Ortiqcha, keraksiz
+Reluctant - Istamay, xohlamay
+Scrutinize - Diqqat bilan tekshirmoq
+Simultaneous - Bir vaqtda, birgalikda sodir bo‘ladigan
+Skeptical - Shubhali, ishonchsiz
+Superfluous - Ortiqcha, keraksiz
+Tedious - Juda zerikarli, charchatadigan
+Tentative - Muvaqqat, aniq bo‘lmagan
+Ubiquitous - Har joyda mavjud, keng tarqalgan
+Viable - Amalga oshadigan, yaroqli
+Vindicate - Oqlamoq, aybdan ozod qilmoq
+Zealous - G‘ayratli, ishtiyoqli
